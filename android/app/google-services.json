@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "914217029233",
+    "firebase_url": "https://pakireen-social-app.firebaseio.com",
+    "project_id": "pakireen-social-app",
+    "storage_bucket": "pakireen-social-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914217029233:android:ae84154f3a6d4daa1cd5d0",
+        "android_client_info": {
+          "package_name": "com.roveedsiddiqui.pakireensocialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914217029233-db0bth9glk4lsabv4ndcaioslkoo2fa1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.roveedsiddiqui.pakireensocialapp",
+            "certificate_hash": "dfacaa4ed0b8fd0197fdb0893a8a6879944bef62"
+          }
+        },
+        {
+          "client_id": "914217029233-jh1g9fhu6a2fuiujqn457k710j2pduc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHNfr_GSDTTEs5a-GugZcTIjm4mUfZWOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914217029233-jh1g9fhu6a2fuiujqn457k710j2pduc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
